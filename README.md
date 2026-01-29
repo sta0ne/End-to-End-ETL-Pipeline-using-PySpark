@@ -8,17 +8,17 @@
 This project demonstrates an end-to-end Data Engineering ETL pipeline using PySpark and Bronze–Silver–Gold architecture on the Superstore dataset.
 The pipeline ingests raw CSV data, cleans and transforms it, and produces business-ready analytical tables stored in Parquet format.
 
-#🔹 Pipeline Flow
+# 🔹 Pipeline Flow
 
 Source → Bronze → Silver → Gold 
 
-#🔹 Bronze Layer
+# 🔹 Bronze Layer
 
 Read CSV
 
 Store as Parquet
 
-#🔹 Silver Layer
+# 🔹 Silver Layer
 
 Clean nulls
 
@@ -28,7 +28,7 @@ Remove duplicates
 
 Feature engineering
 
-# 🔹 Gold Layer
+#  🔹 Gold Layer
 
 Sales by Category
 
