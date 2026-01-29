@@ -1,8 +1,8 @@
 # End-to-End-ETL-Pipeline-using-PySpark
 
-![]().
+![](https://github.com/sta0ne/End-to-End-ETL-Pipeline-using-PySpark/blob/main/logo%20.png).
 
-#🛒 Superstore Data Engineering Project (PySpark ETL)
+# 🛒 Superstore Data Engineering Project (PySpark ETL)
 📌 Overview
 
 This project demonstrates an end-to-end Data Engineering ETL pipeline using PySpark and Bronze–Silver–Gold architecture on the Superstore dataset.
